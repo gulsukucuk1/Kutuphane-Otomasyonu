@@ -1,0 +1,21 @@
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe.config
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.pdb
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.AssemblyReference.cache
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Form1.resources
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Properties.Resources.resources
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.GenerateResource.cache
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.CoreCompileInputs.cache
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.exe
+C:\Users\GÜLSU\Desktop\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.pdb
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe.config
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.exe
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\bin\Debug\KutuphaneYonetim.pdb
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.AssemblyReference.cache
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.exe.config
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Form1.resources
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.Properties.Resources.resources
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.GenerateResource.cache
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.csproj.CoreCompileInputs.cache
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.exe
+D:\BÜTÜN PROJELER\Kütüphane Projesi\KutuphaneYonetim\KutuphaneYonetim\obj\Debug\KutuphaneYonetim.pdb
